@@ -41,3 +41,4 @@ services:
 #npx prisma db push
 #DATABASE_URL="mongodb://mongo:example@localhost:27023/lnwza?authSource=admin"
 #https://www.youtube.com/watch?v=mj5MxsEiHe8
+#https://github.com/prisma/prisma/blob/main/docker/mongodb_replica/Dockerfile
